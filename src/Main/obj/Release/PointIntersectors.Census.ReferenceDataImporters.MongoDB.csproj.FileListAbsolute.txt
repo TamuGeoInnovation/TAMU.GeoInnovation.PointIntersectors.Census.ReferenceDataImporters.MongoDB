@@ -1,4 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.ReferenceDataImporters.MongoDB\build\1.0.0\release\TAMU.GeoInnovation.PointIntersectors.Census.ReferenceDataImporters.MongoDB.dll
-C:\DevSource\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.ReferenceDataImporters.MongoDB\src\Main\obj\Release\PointIntersectors.Census.ReferenceDataImporters.MongoDB.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.ReferenceDataImporters.MongoDB\src\Main\obj\Release\TAMU.GeoInnovation.PointIntersectors.Census.ReferenceDataImporters.MongoDB.dll
-C:\DevSource\Tamu\GeoInnovation\PointIntersectors\PointIntersectors.Census.ReferenceDataImporters.MongoDB\build\1.0.0\AnyCPU\release\TAMU.GeoInnovation.PointIntersectors.Census.ReferenceDataImporters.MongoDB.dll
