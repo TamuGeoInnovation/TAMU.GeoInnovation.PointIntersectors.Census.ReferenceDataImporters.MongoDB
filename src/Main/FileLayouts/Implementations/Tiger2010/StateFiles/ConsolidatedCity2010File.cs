@@ -18,7 +18,7 @@ namespace TAMU.GeoInnovation.Applications.Census.ReferenceDataImporter.MongoDB.F
 
             //ExcludeColumns = new string[] { "Name00_Soundex", "Name00_SoundexDM" };
 
-            SQLCreateTable += 
+            SQLCreateTable +=
             SQLCreateTable += "stateFp10|";
             SQLCreateTable += "conctyFp10|";
             SQLCreateTable += "conctyNs10|";

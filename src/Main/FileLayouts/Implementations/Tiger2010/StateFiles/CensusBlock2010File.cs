@@ -4,20 +4,20 @@ namespace TAMU.GeoInnovation.Applications.Census.ReferenceDataImporter.MongoDB.F
 {
     public class CensusBlock2010File : AbstractTiger2010ShapefileStateFileLayout
     {
-        
+
 
         public CensusBlock2010File(string stateName)
             : base(stateName)
         {
 
-            ExcludeColumns = new string[] 
-            { 
+            ExcludeColumns = new string[]
+            {
                 "uniqueId",
             };
 
             FileName = "tabblock10.zip";
 
-            SQLCreateTable += 
+            SQLCreateTable +=
             SQLCreateTable += "uniqueId|";
             SQLCreateTable += "stateFp10|";
             SQLCreateTable += "countyFp10|";
@@ -38,7 +38,7 @@ namespace TAMU.GeoInnovation.Applications.Census.ReferenceDataImporter.MongoDB.F
             SQLCreateTable += "shapeGeogAsGeoJSON|";
             SQLCreateTable += "shapeGeom|";
             SQLCreateTable += "shapeGeomAsGeoJSON";
-            
+
 
         }
     }
